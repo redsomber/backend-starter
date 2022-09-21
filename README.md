@@ -1,4 +1,4 @@
-# Backend starter code
+# Backend starter code test
 
 This repository is to be used as a starter for Koa based Node.js applications written in TypeScript and using MongoDB. It includes a range of nice packages and configurations. It also has a stub for user login via Telegram, Facebook and Google. Enjoy!
 
